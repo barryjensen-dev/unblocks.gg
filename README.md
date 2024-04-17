@@ -2,10 +2,10 @@
 
 unblocks.gg is a library of proxies and unblockers that you can use at school and work they help you to bypass restrictions on your network.
 
-### Proxies
+## Proxies
 1. Ultraviolet
 2. Ludicrous
-3. rammerhead
+3. Rammerhead
 
 
 ## Installation for Ultraviolet
@@ -27,7 +27,7 @@ npm run build
 npm start
 ```
 
-## Installation for rammerhead
+## Installation for Rammerhead
 
 ```sh
 cd proxy/rammerhead
