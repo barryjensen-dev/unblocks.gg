@@ -5,11 +5,6 @@ unblocks.gg is a library of proxies and unblockers that you can use at school an
 ## Installation
 
 ```sh
-cd proxy
-cd Ultraviolet-App
 npm install
 npm start
 ```
-
-## License
-[MIT](https://github.com/barryjensen-dev/unblocks.gg/LICENSE)
