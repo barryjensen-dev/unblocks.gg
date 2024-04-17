@@ -8,5 +8,5 @@ unblocks.gg is a library of proxies and unblockers that you can use at school an
 cd proxy
 cd Ultraviolet-App
 npm install
-npm start
+npm star
 ```
