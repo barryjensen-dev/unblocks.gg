@@ -1,38 +1,48 @@
+<p align="center">
+    <img src="https://github.com/barryjensen-dev/unblocks.gg/assets/logo.png> alt="Logo" width="250"/>
+</p>
+
 # unblocks.gg | Unblockers & Proxies
 
-unblocks.gg is a library of proxies and unblockers that you can use at school and work they help you to bypass restrictions on your network.
+unblocks.gg is a library of proxies for bypassing internet restrictions.
 
-## Proxies
-### 1. Ultraviolet
-### 2. Ludicrous
-### 3. Rammerhead
+# Proxies
 
+- Ultraviolet
+- Ludicrous
+- Rammerhead
 
-## Installation for Ultraviolet
+# Ultraviolet
 
 ```sh
-cd proxy/Ultraviolet-App
-
+git clone https://github.com/titaniumnetwork-dev/Ultraviolet-App.git
 npm install
 npm start
 ```
 
-## Installation for Ludicrous
+# Ludicrous
 
 ```sh
-cd proxy/Ludicrous
-
+git clone https://github.com/titaniumnetwork-dev/Ludicrous.git
 npm install
 npm run build
 npm start
 ```
 
-## Installation for Rammerhead
+# Rammerhead
 
 ```sh
-cd proxy/rammerhead
-
+git clone https://github.com/binary-person/rammerhead.git
 npm install
 npm run build
 node src/server.js
 ```
+
+To deploy unblocks.gg in your terminal type
+
+`git clone https://github.com/barryjensen-dev/unblocks.gg`
+
+
+# License
+
+unblocks.gg is licensed under the MIT License as of 4/17/2024.
