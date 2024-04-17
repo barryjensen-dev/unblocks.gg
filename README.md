@@ -1,6 +1,6 @@
 # unblocks.gg | Unblockers & Proxies
 
-unblocks.gg is a library of proxies for bypassing internet restrictions.
+unblocks.gg has a library of proxies designed for bypassing internet restrictions.
 
 # Proxies
 
