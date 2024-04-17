@@ -12,6 +12,7 @@ unblocks.gg is a library of proxies and unblockers that you can use at school an
 
 ```sh
 cd proxy/Ultraviolet-App
+
 npm install
 npm start
 ```
@@ -20,6 +21,7 @@ npm start
 
 ```sh
 cd proxy/Ludicrous
+
 npm install
 npm run build
 npm start
@@ -29,6 +31,7 @@ npm start
 
 ```sh
 cd proxy/rammerhead
+
 npm install
 npm run build
 node src/server.js
