@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/barryjensen-dev/unblocks.gg/assets/logo.png> alt="Logo" width="250"/>
+    <img src="https://github.com/barryjensen-dev/unblocks.gg/assets/unblocks.png> alt="unblocks" width="250"/>
 </p>
 
 # unblocks.gg | Unblockers & Proxies
@@ -9,23 +9,14 @@ unblocks.gg is a library of proxies for bypassing internet restrictions.
 # Proxies
 
 - Ultraviolet [@titaniumnetork-dev](https://github.com/titaniumnetwork-dev/Ultraviolet-App)
-- Ludicrous [@titaniumnetork-dev](https://github.com/titaniumnetwork-dev/Ludicrous)
 - rammerhead [@binary-person](https://github.com/binary-person/rammerhead)
 
 # Ultraviolet
 
 ```sh
 git clone https://github.com/titaniumnetwork-dev/Ultraviolet-App.git
+cd Ultraviolet-App
 npm install
-npm start
-```
-
-# Ludicrous
-
-```sh
-git clone https://github.com/titaniumnetwork-dev/Ludicrous.git
-npm install
-npm run build
 npm start
 ```
 
@@ -33,6 +24,7 @@ npm start
 
 ```sh
 git clone https://github.com/binary-person/rammerhead.git
+cd rammerhead
 npm install
 npm run build
 node src/server.js
@@ -40,7 +32,7 @@ node src/server.js
 
 To deploy unblocks.gg in your terminal type
 
-`git clone https://github.com/barryjensen-dev/unblocks.gg`
+`git clone https://github.com/barryjensen-dev/unblocks.gg.git`
 
 
 # License
