@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://gitlab.com/barryjensen-dev/unblocks.gg/-/blob/main/assets/logo.png?ref_type=heads> alt="Logo" width="250"/>
+    <img src="https://github.com/barryjensen-dev/unblocks.gg/assets/logo.png> alt="Logo" width="250"/>
 </p>
 
 # unblocks.gg | Unblockers & Proxies
