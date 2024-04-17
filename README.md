@@ -8,9 +8,9 @@ unblocks.gg is a library of proxies for bypassing internet restrictions.
 
 # Proxies
 
-- Ultraviolet | @titaniumnetork-dev
-- Ludicrous | @titaniumnetwork-dev
-- rammerhead | @binary-person
+- Ultraviolet | [@titaniumnetork-dev](https://github.com/titaniumnetwork-dev)
+- Ludicrous | [@titaniumnetork-dev](https://github.com/titaniumnetwork-dev)
+- rammerhead | [@binary-person](https://github.com/binary-person)
 
 # Ultraviolet
 
