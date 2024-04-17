@@ -6,7 +6,7 @@
 
 unblocks.gg is a library of proxies for bypassing internet restrictions.
 
-# Proxies
+# Proxies & Contributors
 
 - Ultraviolet
 [@titaniumnetork-dev](https://github.com/titaniumnetwork-dev)
