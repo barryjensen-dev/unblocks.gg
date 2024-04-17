@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://github.com/barryjensen-dev/unblocks.gg/assets/unblocks.png> alt="unblocks" width="250"/>
-</p>
-
 # unblocks.gg | Unblockers & Proxies
 
 unblocks.gg is a library of proxies for bypassing internet restrictions.
