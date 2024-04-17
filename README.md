@@ -6,11 +6,11 @@
 
 unblocks.gg is a library of proxies for bypassing internet restrictions.
 
-# Proxies & Contributors
+# Proxies
 
-- Ultraviolet  [@titaniumnetork-dev](https://github.com/titaniumnetwork-dev)
-- Ludicrous  [@titaniumnetork-dev](https://github.com/titaniumnetwork-dev)
-- rammerhead  [@binary-person](https://github.com/binary-person)
+- Ultraviolet [@titaniumnetork-dev](https://github.com/titaniumnetwork-dev/Ultraviolet-App)
+- Ludicrous [@titaniumnetork-dev](https://github.com/titaniumnetwork-dev/Ludicrous)
+- rammerhead [@binary-person](https://github.com/binary-person/rammerhead)
 
 # Ultraviolet
 
