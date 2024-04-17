@@ -1,5 +1,4 @@
-# unblocks.gg
-# Unblockers & Proxies
+# unblocks.gg | Unblockers & Proxies
 
 
 
