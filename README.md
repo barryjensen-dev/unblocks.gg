@@ -10,3 +10,6 @@ cd Ultraviolet-App
 npm install
 npm start
 ```
+
+## License
+[MIT](https://github.com/barryjensen-dev/unblocks.gg/LICENSE)
